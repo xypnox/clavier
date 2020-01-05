@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: Caliver
-FullName: Caliver
-FamilyName: Caliver
+FontName: Calvier
+FullName: Calvier
+FamilyName: Calvier
 Weight: Regular
 Copyright: Copyright (c) 2020, xypnox,,,
 UComments: "2020-1-4: Created with FontForge (http://fontforge.org)"
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1578157926
-ModificationTime: 1578228630
+ModificationTime: 1578228853
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
